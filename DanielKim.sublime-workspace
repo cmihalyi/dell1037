@@ -1,0 +1,1137 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"worldpr",
+				"worldPropTable"
+			],
+			[
+				"draw",
+				"drawCircle"
+			],
+			[
+				"FIND",
+				"FindNearbyObstacle"
+			],
+			[
+				"get",
+				"getObjectUnderPoint"
+			],
+			[
+				"Find",
+				"FindNearbyCollectable"
+			],
+			[
+				"data",
+				"dataCollectables"
+			],
+			[
+				"compati",
+				"compatibleBrakes"
+			],
+			[
+				"part",
+				"partIndex"
+			],
+			[
+				"rig",
+				"rightSide"
+			],
+			[
+				"json",
+				"jsonContent"
+			],
+			[
+				"getele",
+				"getElementById"
+			],
+			[
+				"car_bra",
+				"car_brake_interval"
+			],
+			[
+				"car_ma",
+				"car_max_speed"
+			],
+			[
+				"wor",
+				"worldProps"
+			],
+			[
+				"compat",
+				"compatibleWheels"
+			],
+			[
+				"lef",
+				"leftSide"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"healthmet",
+				"healthMeterContainer"
+			],
+			[
+				"expen",
+				"EXPENSIVE_CAR"
+			],
+			[
+				"build",
+				"buildType"
+			],
+			[
+				"preav",
+				"preAvgWorldProps"
+			],
+			[
+				"wp",
+				"wPropsTable"
+			],
+			[
+				"over",
+				"overallSpeed"
+			],
+			[
+				"overal",
+				"overallHandling"
+			],
+			[
+				"comp",
+				"compatibleChassis"
+			],
+			[
+				"off_t",
+				"off_the_shelf_a"
+			],
+			[
+				"Worl",
+				"WorldPropertiesTable"
+			],
+			[
+				"car_",
+				"car_brake_amount"
+			],
+			[
+				"worl",
+				"WorldPropertiesTable"
+			],
+			[
+				"loadWorld",
+				"loadWorldPropertiesTable"
+			],
+			[
+				"whe",
+				"wheels"
+			],
+			[
+				"wheel",
+				"wheels"
+			],
+			[
+				"curren",
+				"currentLocation"
+			],
+			[
+				"cur",
+				"currentLocation"
+			],
+			[
+				"main-wra",
+				"main-wrapper-content"
+			],
+			[
+				"create",
+				"createBrakeButtons"
+			],
+			[
+				"roo",
+				"Root"
+			],
+			[
+				"heal",
+				"healthMeter"
+			],
+			[
+				"ba",
+				"base"
+			],
+			[
+				"SOU",
+				"SOUNDS_DIRECTORY"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"JSON_",
+				"JSON_SOUND_FILE"
+			],
+			[
+				"Pre",
+				"preloadjs-0"
+			],
+			[
+				"pre",
+				"preloadjs-0"
+			],
+			[
+				"soun",
+				"SoundJS"
+			],
+			[
+				"wheelp",
+				"wheelParticleB"
+			],
+			[
+				"wheelpa",
+				"wheelParticleA"
+			],
+			[
+				"wheep",
+				"wheelParticleA"
+			],
+			[
+				"springc",
+				"SpringConstraintParticle"
+			],
+			[
+				"wheelcon",
+				"wheelConnectorA"
+			],
+			[
+				"spr",
+				"SpringConstraintParticle"
+			],
+			[
+				"div",
+				"divH3"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Base",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"init",
+				"initialY"
+			],
+			[
+				"death",
+				"deathTraps"
+			],
+			[
+				"las",
+				"lastX  (variable)"
+			],
+			[
+				"opti",
+				"optionHelp"
+			],
+			[
+				"prev",
+				"previousButtonDiv"
+			],
+			[
+				"butt",
+				"buttonDiv"
+			],
+			[
+				"LEA",
+				"LEAD_GEN_COMPLETE_POP  (variable)"
+			],
+			[
+				"GAME",
+				"GAME_SUCCESS_POPUP  (variable)"
+			],
+			[
+				"GAM",
+				"GAME_OVER_POPUP"
+			],
+			[
+				"rac",
+				"race_repair"
+			],
+			[
+				"oem",
+				"OEM_REPAIRS_POPUP  (variable)"
+			],
+			[
+				"lead",
+				"LEADER_BOARD_POPUP  (variable)"
+			],
+			[
+				"con",
+				"continue_button"
+			],
+			[
+				"L",
+				"LEAD_GEN_COMPLETE_POP  (variable)"
+			],
+			[
+				"Le",
+				"LEADER_BOARD_POPUP"
+			],
+			[
+				"lea",
+				"LEADER_BOARD_POPUP  (variable)"
+			],
+			[
+				"game",
+				"GAME_SUCCESS_POPUP  (variable)"
+			],
+			[
+				"re",
+				"REPAIRS_POPUP  (variable)"
+			],
+			[
+				"ga",
+				"GAME_OVER_POPUP  (variable)"
+			],
+			[
+				"popup",
+				"popup-center-container"
+			],
+			[
+				"oe",
+				"OEM_REPAIRS_POPUP  (variable)"
+			],
+			[
+				"attr",
+				"attrid"
+			],
+			[
+				"base",
+				"BASE_NAME"
+			],
+			[
+				"inter",
+				"intervalId  (variable)"
+			],
+			[
+				"auto",
+				"autostart"
+			],
+			[
+				"tag",
+				"tagID"
+			],
+			[
+				"next",
+				"nextImgId  (variable)"
+			],
+			[
+				"nex",
+				"nextImgId  (variable)"
+			],
+			[
+				"start",
+				"start-sequence"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"root",
+				"rootContent"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"BAS",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"tex",
+				"textEle"
+			],
+			[
+				"Lead",
+				"LEAD_GEN_TITLE  (variable)"
+			],
+			[
+				"ex",
+				"expensiveCar"
+			],
+			[
+				"che",
+				"cheapCar"
+			],
+			[
+				"dis",
+				"distributeStatContent  (function)"
+			],
+			[
+				"Ba",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"Ch",
+				"CHEAP_CAR  (variable)"
+			],
+			[
+				"coor",
+				"coordinator_text"
+			],
+			[
+				"coordin",
+				"coordinator_name"
+			],
+			[
+				"cre",
+				"createCarOptionRow"
+			],
+			[
+				"BA",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"b",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"car",
+				"CAR_B  (variable)"
+			],
+			[
+				"c",
+				"CAR_A  (variable)"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"foo",
+				"footer-go-button"
+			],
+			[
+				"bott",
+				"bottomNavigationFooter"
+			],
+			[
+				"OFF",
+				"OFF_THE_SHELF"
+			],
+			[
+				"cust",
+				"customBuilt"
+			],
+			[
+				"CUS",
+				"CUSTOM_BUILT"
+			],
+			[
+				"Option",
+				"OptionSectionContentBodyBottomContainer"
+			],
+			[
+				"ini",
+				"initialCostPTag"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"main",
+				"main-wrapper-content"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"body",
+				"bodyPost	(local, instance)"
+			],
+			[
+				"user",
+				"user_rating	(local, instance)"
+			],
+			[
+				"Docu",
+				"DocumentRatings"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"group",
+				"group_id	(local, instance)"
+			],
+			[
+				"ROT",
+				"ROOT_HOST"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"e",
+				"enabled"
+			],
+			[
+				"exist",
+				"existing_rating	(local, instance)"
+			],
+			[
+				"LIT",
+				"LITRACK_SUCCESS"
+			],
+			[
+				"li",
+				"LITRACK_SUCCESS"
+			],
+			[
+				"LITRACK_",
+				"LITRACK_ERROR"
+			],
+			[
+				"create_c",
+				"create_company	(global, function)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/game/Root.js",
+			"settings":
+			{
+				"buffer_size": 15086,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/DynamicForeground.js",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Collections.js",
+			"settings":
+			{
+				"buffer_size": 1401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Rect.js",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 16135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5034,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"djan",
+				"Django DocsSearch"
+			],
+			[
+				"Dja",
+				"Set Syntax: Python Django"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/HealthMeter.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/DynamicForeground.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/CssLayer.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/css/main.css",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/world_properties_table.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/WorldPropertiesTable.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/main.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CarBuild.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildPathPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/Utilities.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildConfirmationPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collections.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/MetaphorPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Root.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/RacePage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/SuccessPopup.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collectable.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Obstacle.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collobsticle.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/FollowerParticle.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/car_data.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/ScoringSystem.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildChassis.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildBrakes.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildWheels.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/index.html",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/ToolSet.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/ModificationsPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OEMBuildWheels.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OEMBuildBrakes.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level_1041.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OEMBuildChassis.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level.json",
+		"/Users/dkim/Desktop/fu_level.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/index.html",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildConfiguration.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/jquery.touchable.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OffTheShelfPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/ScoringSystem.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/gamedev.html",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/WorldPropertiesObject.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/content.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BottomNavigation.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/jquery.transit.min.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/jquery.transite.min.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/jquery.animate-enhance.min.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/main.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/ConclusionPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/world_properties.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/game_properties.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Car.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/Parts.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/Part.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/BuildConfiguration.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/CarBuild.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Part.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/BuildConfigurations.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/untitled",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Builds.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/CarBuild",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/WorldPropertiesColumn.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/ShockPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Parts.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/SpoilerPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/WheelPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/RollBarPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/WorldPropertiesTable.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/RollBarPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/SpoilerPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/BrakePart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BrakePart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/ChassisPart.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/GameProperties.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Parts.j",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/ryan_temp_level.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/sounds.json",
+		"/Users/dkim/Downloads/CreateJS-SoundJS-ab56047/examples/PreloadAndPlay.html",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/PxLoaderSound.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Score.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/LandingPage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/SoundJS.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/SpringConstraint.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/PxLoader.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/PxLoaderImage.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/preloadjs-0.2.0.min.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/ToolSet.js",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level3.json",
+		"/Users/dkim/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/somniojs.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OffTheShelfPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/Collectable.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/RimParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Car.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Surfaces.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Root.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BottomNavigation.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildPathPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/main.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/Utilities.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CarData.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/LandingPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/ModificationsPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildConfirmationPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/RacePage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/css/main.css",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/opensave.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/gamedev.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/ImageSequenizer.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/world_properties.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/somniojs.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/Surfaces.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/images/raceCoordinatorLarge.png",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/Root.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/Root.js",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/js/main.js",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/content.json",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/js/jquery-1.8.2.min.js",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/api/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrackadmin/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/index.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/email_document.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/urls.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/systems/download_email/download_email.html",
+		"/Users/rploetz/Desktop/EmailDocument/index.html"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addImageAtXY",
+			"tick",
+			"setFPS",
+			"window",
+			"setContainer",
+			"pageContainer",
+			"placeStartLocation",
+			"-display",
+			"dots",
+			"removeChild",
+			"Container",
+			"drawCircle",
+			"DrawWholeLine",
+			"DrawPoint",
+			"result",
+			"LoadLevel",
+			"create",
+			"setFPS",
+			"JPE.Root",
+			"path",
+			"container",
+			"new JPE.Root",
+			"updateMOney",
+			"unbind",
+			"bind",
+			"unbind",
+			"unBind",
+			"click",
+			"-mod1-tag",
+			"distributeContent",
+			"createLargeCarOptionRow",
+			"racePage",
+			"bind",
+			"health-container",
+			"health",
+			".change",
+			"change",
+			"createCarOptionRow",
+			"addSpoiler",
+			"args",
+			"setBaseCarStats",
+			"createCarOption",
+			"transition",
+			"animate",
+			"createCarOption",
+			"car_brake_internal",
+			"JPE",
+			"JPE.Root()",
+			"new Root()",
+			"addCarArt",
+			"for",
+			"currentPage",
+			"bind",
+			"unbind",
+			"bind",
+			"main-wrapper-content",
+			"this.race",
+			"Root",
+			"JPE.Root",
+			"distributeContent",
+			"setContainer",
+			"pageContainer",
+			"setContainer",
+			"popup",
+			".mp3",
+			"GameProperties",
+			"onTimeout",
+			".click",
+			"button_click",
+			".click",
+			"<button",
+			"createjs\nimageStartSequenceName",
+			"createjs",
+			"PreLoadJS",
+			"onComplete",
+			"PreLoadJS()",
+			"installPlugin",
+			"preload",
+			"PreloadJS()",
+			"parent",
+			"get",
+			"getCurrLength",
+			"getCenter",
+			"getRadian",
+			"getDelta",
+			"resolve",
+			"stiffness",
+			"resetGame",
+			"setMode",
+			"EnableDeleteSegmentMode",
+			"DrawLine",
+			"redColor",
+			"car",
+			"placeStartLocation",
+			"resetLocation",
+			"placeStartLocation",
+			"navigateForward",
+			"hide",
+			"instance",
+			"resolve",
+			"maxExitVelocity",
+			"BuildConfirmationPage",
+			"bottomNavigation",
+			"LandingPage",
+			"getRan",
+			"currentLocation",
+			"modSpeed",
+			"selectedCar",
+			"leadGenTitle",
+			"LandingPage",
+			"carB",
+			"cheap_car",
+			"carA",
+			"CAR_B",
+			"CAR_A",
+			"createSelectionSection",
+			"navigateForward",
+			"container",
+			"LIT_RACK_EMAIL",
+			"createAdminAccount",
+			"thumb",
+			"s3_loc",
+			"try",
+			"getAverageDocumentRating",
+			"ImageField",
+			"AWS_ACCESS_KEY_ID",
+			"systems",
+			"redirect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"animate",
+			"transition",
+			"car_brake_interval",
+			"",
+			"button_press"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/game/Root.js",
+					"settings":
+					{
+						"buffer_size": 15086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8713,
+								8713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3787.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/game/DynamicForeground.js",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1055,
+								1055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/game/Collections.js",
+					"settings":
+					{
+						"buffer_size": 1401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/game/Rect.js",
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 16135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2064,
+								2064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							],
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true
+}

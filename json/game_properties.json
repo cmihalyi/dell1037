@@ -1,0 +1,6 @@
+{
+	"game_costs":{
+		"amount":20,
+		"tick":1000
+	}
+}

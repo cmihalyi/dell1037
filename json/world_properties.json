@@ -1,0 +1,17 @@
+{
+   "physics":{
+      "car":{
+         "braking_amount_x":-60,
+         "braking_amount_y": -20,
+         "braking_interval":250,
+         "mass":4,
+         "elasticity":0.3,
+         "friction":0,
+         "traction":1,
+         "max_speed":10
+      },
+      "world":{
+         "gravity":5
+      }
+   }
+}

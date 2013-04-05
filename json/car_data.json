@@ -1,0 +1,154 @@
+{
+	"chassis": [
+		{
+			"type":1,
+			"speed":1,
+			"durability":6,
+			"handling":0,
+			"braking":0,
+			"cost":150
+		}, 
+		{
+			"type":2,
+			"speed":2,
+			"durability":8,
+			"handling":0,
+			"braking":0,
+			"cost":250
+		},	
+		{
+			"type":3,
+			"speed":3,
+			"durability":5,
+			"handling":0,
+			"braking":0,
+			"cost":350
+		},	
+		{
+			"type":4,
+			"speed":6,
+			"durability":2,
+			"handling":0,
+			"braking":0,
+			"cost":500
+		}
+	],
+	"wheels": [
+		{
+			"type":1,
+			"speed":1,
+			"durability":0,
+			"handling":1,
+			"braking":0,
+			"cost":40
+		}, 
+		{
+			"type":2,
+			"speed":2,
+			"durability":0,
+			"handling":6,
+			"braking":0,
+			"cost":80
+		},	
+		{
+			"type":3,
+			"speed":3,
+			"durability":0,
+			"handling":4,
+			"braking":0,
+			"cost":120
+		},	
+		{
+			"type":4,
+			"speed":5,
+			"durability":0,
+			"handling":8,
+			"braking":0,
+			"cost":200
+		}
+	],
+	"brakes": [
+		{
+			"type":1,
+			"speed":0,
+			"durability":0,
+			"handling":0,
+			"braking":2,
+			"cost":20
+		}, 
+		{
+			"type":2,
+			"speed":0,
+			"durability":0,
+			"handling":0,
+			"braking":4,
+			"cost":60
+		},	
+		{
+			"type":3,
+			"speed":0,
+			"durability":0,
+			"handling":0,
+			"braking":7,
+			"cost":100
+		},	
+		{
+			"type":4,
+			"speed":0,
+			"durability":0,
+			"handling":0,
+			"braking":10,
+			"cost":200
+		}	
+	],
+	"spoiler": {
+		"speed":1,
+		"durability":0,
+		"handling":0,
+		"braking":0,
+		"cost":0
+	},
+	"shocks" : {
+		"speed":0,
+		"durability":0,
+		"handling":2,
+		"braking":0,
+		"cost":0
+	},
+	"roll_bar": {
+		"speed":0,
+		"durability":2,
+		"handling":0,
+		"braking":0,
+		"cost":0
+	},
+	"builds":[
+		{
+			"type": "off_the_shelf_a",
+			"chassis":[1],
+			"wheels":[1],
+			"brakes":[1],
+			"repair_cost":200
+		},
+		{
+			"type": "off_the_shelf_b",
+			"chassis":[4],
+			"wheels":[4],
+			"brakes":[4],
+			"repair_cost":1200
+		},	
+		{
+			"type": "oem",
+			"chassis":[2, 3],
+			"wheels":[2, 3],
+			"brakes":[2, 3],
+			"repair_cost":650
+		},
+		{
+			"type": "custom",
+			"chassis":[1, 2, 3, 4],
+			"wheels":[1, 2, 3, 4],
+			"brakes":[1, 2, 3, 4]
+		}
+	]
+}

@@ -1,0 +1,660 @@
+{
+	"bib": {
+		"oem_messaging_crawl":[
+			"Let Dell OEM help you speed to profit!",
+			"Overtake the competition with DELL OEM!",
+			"With Dell OEM you get experience plus global support.",
+			"Trust Dell OEM to get the right piece in the right place right away.",
+			"Maximize your time with Dell OEM!",
+			"Dell OEM is optimized and experienced, without the complications.",
+			"Dell OEM helps you build your product and bring it to the market more efficiently.",
+			"With DELL OEM, you're ready to get racing!"
+		],
+		"oem_link": {
+			"name": "Dell OEM Home",
+			"link": "http://content.dell.com/us/en/business/oem-industry-solutions"
+		},
+		"dell_blog": {
+			"name": "Dell OEM Blog",
+			"link": "http://blog.delloem.com/"
+		},
+		"footer": {
+			"copyright": "Copyright ©2012 Dell",
+			"sponsored": "Sponsored by Dell | Intel",
+			"developed": "Developed by Somnio Solutions, Inc."
+		}
+	},
+	"currency_symbol": "$",
+	"unavailable_advisor": {
+	   "title": "OEM Advisor not available.",
+	   "popover_content": "Sorry, the Dell OEM Advisor is not available on this Build Path. Explore the OEM Build Path and receive the Advisor's insight toward making the right choice of parts!",
+	   "img_src": "images/InterfaceAssets/advisorNotAvailable.png",
+	   "img_title": "OEM Advisor Unavailable",
+	   "img_alt": "OEM Advisor Unavailable"
+	},
+	"page_bottom_footer": {
+		"bank_text": "Bank",
+		"initial_money": "2000",
+		"previous_button": "BACK",
+		"forward_button": "GO!"
+	},
+	"landing_page": {
+		"support_detection": "This game is not optimized for your browser or device. We suggest updating your browser or trying again from another device.",
+		"header": "Welcome to Derby Dash!",
+		"body": "I'm Jenna, your Race Coordinator for Derby Dash, a soapbox racer obstacle competition. This game is built to be a fun introduction to Dell OEM – while acting as a metaphor for how Dell OEM helps customers bring computer-powered or designed products to market more efficiently. You'll build and customize a racer, and then test it on the course. At the same time you'll learn how Dell OEM helps bring your product to market. Along the way, explore \"?\"s to find out more about the game and the metaphor. Enter now to join the race and compete to win!",
+		"play_button": "PLAY!"
+	},
+    "redirect_page": {
+        "header": "Not so fast!",
+        "body": "This game is not optimized for your browser or device.  We suggest using the latest version of Google Chrome, updating your browser, or trying again from another device.  Otherwise, race conditions may vary.",
+        "img_src": "images/CharacterAssets/coordinatorOptimized.png"
+    },
+	"build_path_page": {
+		"coordinator_name": "Jenna",
+		"coordinator_text": "First up, decide how to build your racer. Select one of the three options below. Keep an eye on your Bank because that'll be your score. And explore the \"?\"s for more information — they might help you optimize your ride. ",
+		"cost_txt": "Initial Cost",
+		"select_button": "SELECT",
+		"dell_oem": {
+            "cert": "TRACK CERTIFIED",
+			"title": "OEM Solution",
+			"description": "Let Dell OEM help you build the perfect racer for the course. (Up-front investment, but with Dell OEM you get experience, advice, and support.)",
+			"metaphor": "Dell OEM's years of experience and global reach will help get your product on the market more efficiently.",
+			"base_cost": "650"
+		},
+		"custom_built": {
+			"title": "Custom Ride",
+			"description": "Build your own, from the ground up. (Full control, maximum risk.)",
+			"metaphor": "Building your own machine for business requires research, procurement experts, vendors and vendor managers, and so on – with myriad decisions along the way.",
+			"base_cost": "0"
+		},
+		"off_the_shelf": {
+			"title": "Off-the-Shelf",
+			"description": "Select from one of two pre-assembled racers. Inexpensive, but not course-specialized. (Get on the road right away, but your choices are limited.)",
+			"metaphor": "Buying off-the-shelf business machines gets you going faster, but lacks the flexibility, expertise, and support your project requires.",
+			"base_cost": "0"
+		}
+	},
+	"car_stats": ["Speed", "Braking", "Handling", "Durability"],
+	"car_stats_explanation": [
+	   "Speed is your terminal velocity down the course. In other words, your top speed. The faster you go, the quicker you'll make it down the hill, but it'll be harder to control your ride.",
+	   "Though speed is important, controlling your speed is the key. The more sensitive the brake, the faster you'll stop — but your reflexes had better be good.",
+	   "The higher your handling stat, the less you'll lose speed over rough terrain.",
+	   "Durability indicates how many minor collisions your racer can suffer before it needs repairs. Major collisions will send you directly to the pit."
+	],
+	"off_the_shelf": {
+        "nav_pane_title": "Off-the-Shelf",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Select from the two pre-assembled racers below and skip all the hassle. Don't forget to explore the \"?\"s to help you decide.",
+		"cost_title": "Cost:",
+		"select_button": "SELECT",
+		"cars": {
+			"cheap_car": {
+				"title": "Ready Roadster",
+				"cost": "200",
+				"speed": "20",
+				"braking": "30",
+				"handling": "40",
+				"durability": "50"
+			},
+			"expensive_car": {
+				"title": "Dandy Dream",
+				"cost": "1200",
+				"speed": "20",
+				"braking": "30",
+				"handling": "40",
+				"durability": "50"
+			}
+		}
+	},
+    "custom_build_chassis": {
+        "nav_pane_title": "Custom Built: Chassis",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Select one of the chassis below and start building your racer. Don't forget to click the \"?\"s if you are looking for some tips or need more info.",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "cars": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+            },{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+            }
+        ]
+    },
+    "custom_build_wheels": {
+        "nav_pane_title": "Custom Built: Wheels",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Next up, pick your wheels! The right wheels can keep you connected and speeding to victory – or they can make for a long day of racing. Don't forget to explore the \"?\"s to help you decide. ",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "wheels": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+            },{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+            }
+        ]
+    },
+    "custom_build_brakes": {
+        "nav_pane_title": "Custom Built: Brakes",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Last but not least, pick out your brakes. Remember this game is all about controlling your speed effectively, so choose carefully. Don't forget to explore the \"?\"s to help you decide.",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "brakes": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+            },{
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+            }
+        ]
+    },
+    "oem_build_chassis": {
+        "nav_pane_title": "OEM Built: Chassis",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Select one of the chassis below and start building your racer. Don't forget to click the \"?\"s if you are looking for some tips or need more info.",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "advisor_title" : "OEM Advisor",
+        "advisor_text" : "Dell OEM narrowed down your chassis options for a balance between speed and durability. If your reflexes are good, go for speed. If not, we suggest focusing on durability.",
+        "advisor_info" : "Building this racer is like building a computer to power or develop your business's products. Dell OEM will help you by providing experienced advice and support to speed you to profit.",
+        "cars": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "durability",
+                	"value" : "XX"
+                }
+             }
+        ]
+    },
+    "oem_build_wheels": {
+        "nav_pane_title": "OEM Built: Wheels",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Next up, pick your wheels! The right wheels can keep you connected and speeding to victory – or they can make for a long day of racing. Don't forget to explore the \"?\"s to help you decide.",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "advisor_title" : "OEM Advisor",
+        "advisor_text" : "Selecting between wheels is a trade off between speed and handling. If you're good at avoiding rough patches, look for more speed. Otherwise, handling might be your best bet.",
+        "advisor_info" : "Building this racer is like building a computer to power or develop your business's products. Dell OEM will help you by providing experienced advice and support to speed you to profit.",
+        "wheels": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "speed",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "handling",
+                	"value" : "XX"
+                }
+            }
+        ]
+    },
+ 	"oem_build_brakes": {
+        "nav_pane_title": "OEM Built: Brakes",
+        "coordinator_name": "Jenna",
+        "coordinator_text": "Last but not least, pick out your brakes. Remember this game is all about controlling your speed effectively, so choose carefully.",
+        "speed_title": "Speed:",
+        "durability_title": "Durability:",
+        "select_button": "SELECT!",
+        "advisor_title" : "OEM Advisor",
+        "advisor_text" : "Sensitive brakes help you stop. But you might have a harder time controlling your racer. If your reflexes are good, go with the more sensitive brakes. If you need more time to adjust, go with the less sensitive brakes. ",
+        "advisor_info" : "Building this racer is like building a computer to power or develop your business's products. Dell OEM will help you by providing experienced advice and support to speed you to profit.",
+        "brakes": [
+            {
+                "cost": "XXX",
+                "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+        	},{
+                "cost": "XXX",
+                 "mod1": {
+                	"title" : "braking",
+                	"value" : "XX"
+                },
+                 "mod2": {
+                	"title" : "none",
+                	"value" : "XX"
+                }
+            }
+        ]
+    },
+ 	"modifications": {
+        "nav_pane_title": "Modification Upgrades",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Want a leg up on the competition? Provide a little info about yourself to earn bonuses for your racer. Get one boost – or all three! Follow the instructions below or skip it and just click GO!",
+		"purchase_confirmation": "INSTALLED!",
+		"mods":[ 
+			{
+				"title":"Spoiler",
+				"stat": {
+					"title": "Speed Advantage",
+					"stat":"speed",
+					"amount": "1"
+				},
+				"instructions": "Provide your industry to install",
+				"entry_elements": [
+					"Provide your industry to install",
+					"Aerospace/Defense",
+					"Communications",
+					"Entertainment",
+					"Finance and Insurance",
+					"Healthcare",
+					"Industrial",
+					"Information Management",
+					"Retail/CIS",
+					"Other"
+				]
+			},
+			{
+				"title":"Dampers",
+				"stat": {
+					"title": "Better Handling",
+					"stat":"handling",
+					"amount": "1"
+				},	
+				"instructions": "Provide your role to install",
+				"entry_elements": [
+					"Provide your role to install",
+					"Executives",
+					"Facilities",
+					"Finance",
+					"H/R",
+					"IT",
+					"Marketing",
+					"Operations",
+					"Procurement",
+					"Sales",
+					"Other"
+				]
+			},
+			{
+				"title":"Reinforced Frame",
+				"stat": {
+					"title": "Increased Durability",
+					"stat":"durability",
+					"amount": "1"
+					},
+				"instructions": "Provide your location to install",
+				"entry_elements": [
+					"Provide your location to install",
+					"North America",
+					"Latin America",
+					"Europe",
+					"Asia Pacific",
+					"Alabama",
+					"Alaska",
+					"Arizona",
+					"Arkansas",
+					"California",
+					"Colorado",
+					"Connecticut",
+					"Delaware",
+					"Florida",
+					"Georgia",
+					"Hawaii",
+					"Idaho",
+					"Illinois",
+					"Indiana",
+					"Iowa",
+					"Kansas",
+					"Kentucky",
+					"Louisiana",
+					"Maine",
+					"Maryland",
+					"Massachusetts",
+					"Michigan",
+					"Minnesota",
+					"Mississippi",
+					"Missouri",
+					"Montana",
+					"Nebraska",
+					"Nevada",
+					"New Hampshire",
+					"New Jersey",
+					"New Mexico",
+					"New York",
+					"North Carolina",
+					"North Dakota",
+					"Ohio",
+					"Oklahoma",
+					"Oregon",
+					"Pennsylvania",
+					"Rhode Island",
+					"South Carolina",
+					"South Dakota",
+					"Tennessee",
+					"Texas",
+					"Utah",
+					"Vermont",
+					"Virginia",
+					"Washington",
+					"West Virginia",
+					"Wisconsin",
+					"Wyoming"
+				]
+			}
+		]
+	},
+ 	"tutorial1": {
+        "nav_pane_title": "Tutorial",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Here's a quick tutorial about how to play Derby Dash. Click \"Skip to Race\" to start the race now. The key to Derby Dash braking to control speed and finding the optimum downhill path, avoiding trash bins, and collecting as many coins as possible.",
+		"keyboard_arrow": "Use the brakes to control your speed and aim for the optimum path.",
+		"ramp_arrow": "Avoid pits and obstacles.",
+		"skip_text" : "Skip to Race"
+	},
+ 	"tutorial2": {
+        "nav_pane_title": "Tutorial",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Collecting coins will keep your bank full, but each second that goes by will cost you money. If you run out of money or can't pay for repairs, you lose!",
+		"timeclock_arrow": "Race fast to avoid losing bank.",
+		"coins_arrow": "Collect coins to increase your profit.",
+		"bank_arrow": "Running out of bank results in game over.",
+		"skip_text" : "Skip to Race"
+	},
+ 	"tutorial3": {
+        "nav_pane_title": "Tutorial",
+		"coordinator_name": "Jenna",
+		"coordinator_texta": "Hitting pits or platforms will require immediate repair, which may cost money! Hitting trash bins will decrease your health meter. When the meter is empty, you'll need a repair! Once you're ready, click \"GO!\" to start the race.",
+		"coordinator_textb": "Hitting pits or platforms will require immediate repair, which may cost money! Hitting trash bins will decrease your health meter. When the meter is empty, you'll need a repair!",
+		"repair_arrow": "Pitfalls, or taking on too much damage, will require repairs. But repairs are costly and time-consuming.",
+		"skip_text" : "Skip to Race"
+	},
+ 	"tutorial4": {
+        "nav_pane_title": "Tutorial",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Because you selected Dell OEM, you'll be receiving on-track support from your OEM advisor! I'll let him tell you about the \"brake hints.\" Once you're ready, click \"GO!\" to start the race.",
+		"skip_text" : "Skip to Race",
+		"advisor_text" : "To help you succeed, we've added some \"brake hints\" to the track! Start braking at the first flag and let go at the second for the best racing lines!"
+	},
+	"build_confirmation": {
+        "nav_pane_title": "Confirm Your Build",
+		"coordinator_name": "Jenna",
+		"coordinator_text": "Nice ride! Are you happy with your choices? This is your last chance to go back and make any changes before race time."
+	},
+	"popups": {
+		"race_repair": {
+			"title": "PIT STOP!",
+			"cost": "500",
+			"explanation": "Breakdown! Repairs are underway. A fee has been deducted from your bank. If you chose the Dell OEM option, you'll get fixed faster, with quality parts, for less money. At Dell OEM, we get you the right parts, right away, anywhere in the world.",
+			"countdown_title": "REPAIRED IN:"
+		},
+		"oem_race_repair":{
+			"title": "PIT STOP!",
+			"cost": "0",
+			"explanation": "Breakdown! Repairs are underway. Because you chose the DELL OEM option, we've got you covered at no cost!",
+			"countdown_title": "REPAIRED IN:"
+		},
+		"race_win": {
+			"title": "CONGRATULATIONS!",
+			"body": "You've made it to the finish line and managed to earn ",
+			"continue_button": "CONTINUE"
+		},
+		"race_lose": {
+			"title": "GAME OVER!",
+			"body": "You've run out of cash, so the race ends here. Try again – and this time, you might want to give Dell OEM a spin.",
+			"restart_button": "RESTART",
+			"new_car_button": "CHOOSE NEW CAR",
+			"continue_button": "CONTINUE"
+		},
+        "stuck_pane": {
+            "title": "STUCK!",
+            "cost": "100",
+            "oem_cost": "0",
+            "explanation": "Woops! Got yourself stuck! Give a second, and we'll get you reset.",
+            "countdown_title": "REPAIRED IN:"
+        },
+		"nav_pane": {
+		  "title": "Choose New Car?",
+		  "body": "Are you sure you want to return to the build selection screen?  Doing so will erase all of the choices you have made up to this point.",
+		  "cancel_button": "Cancel",
+		  "go_button": "Go!"
+		},
+		"oem_banner_messaging":[
+			"Dell OEM has 13+ years serving customers.",
+			"2,100 Dell OEM customers around the world.",
+			"40+ Dell OEM industry verticals.",
+			"1,206 custom projects in 2012.",
+			"40+ engineers dedicated to Dell OEM.",
+			"30% of Fortune 100 companies are Dell OEM customers.",
+			"Dell OEM has grown 45% in 5 years.",
+			"Dell OEM represents 18% of Dell's global commercial servers.",   
+			"Intel architects secure, scalable solutions for a more intelligent network.",
+			"Build a trustworthy infrastructure with Intel architecture.",
+			"Intel architects the Smart Factory - secure, scalable, connected.",
+			"Intel builds transformative, leading-edge technologies.",
+			"Add intelligence across your factory with Intel technology.",
+			"Increase customer engagement, service, and retention with Intel.",
+			"Leverage a history of innovation with Intel.",
+			"Intel technologies enable robust, secure, and integrated user experiences."
+		]
+	},
+	"marketing_page": {
+	   "page_header": "How Dell OEM helps you speed to market",
+	   "header_text": "Our expertise paired with global service and support add value for your customers.",
+	   "subhead": "OEM Solution",
+	   "subhead_text": "Like racing, bringing a compute-based product to market and supporting it can be a challenge. Navigating the options and decisions along the way requires tremendous resources.  Instead, partner with <strong>Dell OEM Solutions</strong> - advisors dedicated to helping companies <strong>bring products to market more efficiently</strong>. Leverage Dell’s entire <strongTier 1 product line</strong> of <strong>Intel-powered</strong servers, storage, and client hardware solutions.",
+	   "subhead_text2": "Benefit from <strong>increasing speed to market</strong> and a partner with <strong>OEM manufacturing expertise</strong> who can help you <strong>enter new markets. Global services and support options allow you to refocus your resources</strong> on innovation and <strong>add value for your customers.</strong>",
+	   "continue_button_text": "Continue"
+	},
+	"metaphor_page": {
+	   "page_header": "Master the Course with Dell OEM",
+	   "header_text": "Building a soapbox racer is similar to building a computer to power or develop your business's products. Here's how the numbers line up.",
+	   "investment_header": "Initial Capital",
+	   "investment_text": "This is the amount of money you start out with. You've got to spend money to earn money, though!",
+	   "profits_header": "Profits",
+	   "profits_text": "This is the total from the coins you collected, similar to the sales of services or products in the real world. How did you do?",
+	   "costs_header": "Operating Costs",
+	   "costs_text": "This is the total amount spent or lost during the build and the race. Dell OEM might need a bit of up-front investment, but helps mitigate losses in the long run.",
+	   "revenue_header": "Revenue",
+	   "revenue_text": "Your score consists of what's left over after your operating costs. Whether here or in the real world, Dell OEM helps you maximize this number!",
+	   "continue_button_text": "Continue"
+	},
+	"conclusion_page": {
+	   "leaderboard_header": "LEADERBOARD",
+	   "leaderboard_button1_text": "YOUR<br/>SCORE",
+	   "leaderboard_button2_text": "TOP<br/>10",
+	   "leaderboard_offline_text": "Leaderboard is currently off-line",
+	   "rank_header": "Rank",
+	   "initials_header": "Initials",
+	   "build_type_header": "Build Type",
+	   "score_header": "Score",
+	   "form_header": "Good Effort!",
+	   "form_body": "If you made the Leader Board, enter your initials to record your score. Whether you made it or not, however, you may fill out your information if you'd like to be contacted!",
+	   "initials_label": "Initials",
+	   "name_label": "Name",
+	   "email_label": "Email",
+	   "decline_button_text": "NO THANKS",
+	   "continue_button_text": "CONTINUE",
+	   "try_again_button_text": "RACE AGAIN",
+	   "new_car_button_text": "NEW CAR",
+	   "oem_blog_button_text": "VISIT THE OEM BLOG",
+	   "oem_blog_url": "http://blog.delloem.com/",
+	   "continue_header": "Thanks for Playing!",
+	   "continue_body": "We at Dell OEM hope you enjoyed playing Derby Dash. When you work with us, you get your business on the road faster and more efficiently. Dell OEM is with you every step of the way. <br/><br />We have the knowledge and experience to help you build the right computer to power or develop your business's products – so you can speed to market and to profit! <br/><br />Visit the Dell OEM blog below for more information!",
+	   "opt_in_text" : "Would you like to be contacted by a Dell OEM solutions expert to learn more?"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

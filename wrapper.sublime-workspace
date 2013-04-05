@@ -1,0 +1,1412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roll",
+				"roll_bar"
+			],
+			[
+				"car",
+				"carY  (argument)"
+			],
+			[
+				"fore",
+				"foregroundImages"
+			],
+			[
+				"chec",
+				"checkWinCondition"
+			],
+			[
+				"re",
+				"repairCost"
+			],
+			[
+				"game",
+				"gameProperties"
+			],
+			[
+				"race",
+				"racePage"
+			],
+			[
+				"operat",
+				"operatingCostTick"
+			],
+			[
+				"oper",
+				"operatingCostTick  (variable)"
+			],
+			[
+				"pro",
+				"profits"
+			],
+			[
+				"coll",
+				"collectables"
+			],
+			[
+				"cou",
+				"countX"
+			],
+			[
+				"count",
+				"countX"
+			],
+			[
+				"coun",
+				"countX"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"off",
+				"offsetY  (argument)"
+			],
+			[
+				"back",
+				"background_sky"
+			],
+			[
+				"whee",
+				"wheel_1_right"
+			],
+			[
+				"wheel_",
+				"wheel_1_left"
+			],
+			[
+				"surf",
+				"surfaces"
+			],
+			[
+				"of",
+				"offsetX"
+			],
+			[
+				"paren",
+				"parentSprite"
+			],
+			[
+				"whe",
+				"wheelParticleA"
+			],
+			[
+				"foregroun",
+				"foregroundLayer"
+			],
+			[
+				"imageF",
+				"imageFileName"
+			],
+			[
+				"json",
+				"jsonFile"
+			],
+			[
+				"leve",
+				"levelFile"
+			],
+			[
+				"worldPr",
+				"worldPropertiesFile"
+			],
+			[
+				"image",
+				"ImageResources"
+			],
+			[
+				"canvas",
+				"canvasName"
+			],
+			[
+				"Coll",
+				"Collobsticle"
+			],
+			[
+				"img",
+				"imgType"
+			],
+			[
+				"create",
+				"createSpriteSheet"
+			],
+			[
+				"cont",
+				"containerLayer"
+			],
+			[
+				"sprite",
+				"spriteSheetData"
+			],
+			[
+				"obst",
+				"obstacle_img_type"
+			],
+			[
+				"obs",
+				"obstacle_height"
+			],
+			[
+				"clle",
+				"collectable_height"
+			],
+			[
+				"im",
+				"imgType"
+			],
+			[
+				"brak",
+				"braking_amount_y"
+			],
+			[
+				"pbr",
+				"pbrakingAmountY"
+			],
+			[
+				"pbraking",
+				"pbrakingAmountX"
+			],
+			[
+				"CUST",
+				"CUSTOM_BUILD_CHASSIS"
+			],
+			[
+				"forw",
+				"forwardLocation"
+			],
+			[
+				"con",
+				"connector"
+			],
+			[
+				"setP",
+				"setPy"
+			],
+			[
+				"rect",
+				"rectHeight"
+			],
+			[
+				"resolve",
+				"resolveCollision"
+			],
+			[
+				"bot",
+				"bottomConnector"
+			],
+			[
+				"deb",
+				"debugDraw  (function)"
+			],
+			[
+				"Colle",
+				"collectables"
+			],
+			[
+				"debug",
+				"debugDraw"
+			],
+			[
+				"div",
+				"divH3"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Base",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"init",
+				"initialY"
+			],
+			[
+				"draw",
+				"drawDeathNewLineSegment"
+			],
+			[
+				"death",
+				"deathTraps"
+			],
+			[
+				"las",
+				"lastX  (variable)"
+			],
+			[
+				"opti",
+				"optionHelp"
+			],
+			[
+				"prev",
+				"previousButtonDiv"
+			],
+			[
+				"butt",
+				"buttonDiv"
+			],
+			[
+				"LEA",
+				"LEAD_GEN_COMPLETE_POP  (variable)"
+			],
+			[
+				"GAME",
+				"GAME_SUCCESS_POPUP  (variable)"
+			],
+			[
+				"GAM",
+				"GAME_OVER_POPUP"
+			],
+			[
+				"rac",
+				"race_repair"
+			],
+			[
+				"oem",
+				"OEM_REPAIRS_POPUP  (variable)"
+			],
+			[
+				"lead",
+				"LEADER_BOARD_POPUP  (variable)"
+			],
+			[
+				"L",
+				"LEAD_GEN_COMPLETE_POP  (variable)"
+			],
+			[
+				"Le",
+				"LEADER_BOARD_POPUP"
+			],
+			[
+				"lea",
+				"LEADER_BOARD_POPUP  (variable)"
+			],
+			[
+				"ga",
+				"GAME_OVER_POPUP  (variable)"
+			],
+			[
+				"popup",
+				"popup-center-container"
+			],
+			[
+				"oe",
+				"OEM_REPAIRS_POPUP  (variable)"
+			],
+			[
+				"attr",
+				"attrid"
+			],
+			[
+				"base",
+				"BASE_NAME"
+			],
+			[
+				"att",
+				"attrid"
+			],
+			[
+				"inter",
+				"intervalId  (variable)"
+			],
+			[
+				"auto",
+				"autostart"
+			],
+			[
+				"tag",
+				"tagID"
+			],
+			[
+				"next",
+				"nextImgId  (variable)"
+			],
+			[
+				"nex",
+				"nextImgId  (variable)"
+			],
+			[
+				"start",
+				"start-sequence"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"root",
+				"rootContent"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"BAS",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"tex",
+				"textEle"
+			],
+			[
+				"Lead",
+				"LEAD_GEN_TITLE  (variable)"
+			],
+			[
+				"ex",
+				"expensiveCar"
+			],
+			[
+				"che",
+				"cheapCar"
+			],
+			[
+				"dis",
+				"distributeStatContent  (function)"
+			],
+			[
+				"Ba",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"Ch",
+				"CHEAP_CAR  (variable)"
+			],
+			[
+				"coor",
+				"coordinator_text"
+			],
+			[
+				"coordin",
+				"coordinator_name"
+			],
+			[
+				"cre",
+				"createCarOptionRow"
+			],
+			[
+				"BA",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"b",
+				"BASE_CAR_OPTION  (variable)"
+			],
+			[
+				"c",
+				"CAR_A  (variable)"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"foo",
+				"footer-go-button"
+			],
+			[
+				"bott",
+				"bottomNavigationFooter"
+			],
+			[
+				"OFF",
+				"OFF_THE_SHELF"
+			],
+			[
+				"cust",
+				"customBuilt"
+			],
+			[
+				"CUS",
+				"CUSTOM_BUILT"
+			],
+			[
+				"Option",
+				"OptionSectionContentBodyBottomContainer"
+			],
+			[
+				"ini",
+				"initialCostPTag"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"main",
+				"main-wrapper-content"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"body",
+				"bodyPost	(local, instance)"
+			],
+			[
+				"user",
+				"user_rating	(local, instance)"
+			],
+			[
+				"Docu",
+				"DocumentRatings"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"group",
+				"group_id	(local, instance)"
+			],
+			[
+				"ROT",
+				"ROOT_HOST"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"e",
+				"enabled"
+			],
+			[
+				"exist",
+				"existing_rating	(local, instance)"
+			],
+			[
+				"LIT",
+				"LITRACK_SUCCESS"
+			],
+			[
+				"li",
+				"LITRACK_SUCCESS"
+			],
+			[
+				"LITRACK_",
+				"LITRACK_ERROR"
+			],
+			[
+				"create_c",
+				"create_company	(global, function)"
+			],
+			[
+				"Create",
+				"CreateCompanyForm	(imported, instance)"
+			],
+			[
+				"com",
+				"company"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/game/Root.js",
+			"settings":
+			{
+				"buffer_size": 15121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rploetz/Desktop/Ryan Things to To - Dell 1037",
+			"settings":
+			{
+				"buffer_size": 1666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rploetz/Documents/GITs/SomnioAnalytics/SomnioAnalytics/analytics/views.py",
+			"settings":
+			{
+				"buffer_size": 4153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/DynamicForeground.js",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Car.js",
+			"settings":
+			{
+				"buffer_size": 3495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Collobsticle.js",
+			"settings":
+			{
+				"buffer_size": 2911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Collections.js",
+			"settings":
+			{
+				"buffer_size": 1401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Collectable.js",
+			"settings":
+			{
+				"buffer_size": 985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/Obstacle.js",
+			"settings":
+			{
+				"buffer_size": 1647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/RacePage.js",
+			"settings":
+			{
+				"buffer_size": 9125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/ScoringSystem.js",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/game/ImageResources.js",
+			"settings":
+			{
+				"buffer_size": 2701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 16984,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Package Control 1.6.0 Changelog:\n  \n  Wow! It has been 9 months since the last stable release of Package Control.\n  Quite a lot has happened since then, including the release of Sublime Text 2\n  stable, and hundreds upon hundreds of new packages from the community!\n  \n  A quick thank you to Kevin Yank (@sentience) for recently volunteering to help\n  review packages for inclusion in the default channel, and ninj0x\n  (https://github.com/ninj0x) for rewriting the Package Control Community\n  Packages search functionality so it is nice and fast once again! The lists\n  below include specific thanks for code contributions.\n  \n  As Sublime Text has become increasingly more popular, and the number of\n  packages has increased so rapidly, the bandwidth requirements have also\n  significantly increased. This month the default channel will very likely serve\n  over 1TB of JSON data. If you feel so inclined, consider pitching in a small\n  amount to help cover the cost:\n  http://wbond.net/sublime_packages/package_control/say_thanks. A big thank you\n  to all of the users who have already contributed!\n  \n  \n  Enhancements\n  \n  \n   - Added full (custom) proxy authentication support for HTTPS connections\n  \n   - Added NTLM authentication for proxies on Windows\n  \n   - Proxy authentication information is now set via the new proxy_username and\n     proxy_password settings.\n  \n   - If the https_proxy setting it set to false, it will not inherit from the\n     http_proxy setting (thanks planardothum!)\n  \n   - The time of the last successful run is no longer stored in\n     Packages/User/Package Control.sublime-settings, but rather in\n     Packages/User/Package Control.last-run making it easier to ignore via git,\n     hg, etc. (thanks schlamar!)\n  \n   - Packages are now ignored during install and upgrade to help prevents errors\n     where Sublime Text tries to read a file as it is being extracted\n  \n   - Packages that include DLLs for Windows can now be upgraded. In-use\n     DLLs will be detected and the user prompted to restart.\n  \n   - Package version numbers may now include non-numeric components, and semantic\n     versioning (http://semver.org) is fully supported\n  \n   - JSON parsing messages are now printed to the console instead of being shown\n     in an error popup\n  \n   - Added support for changes to the BitBucket API\n  \n   - Added support for changes to GitHub URLs\n  \n   - Added the debug setting to help track down HTTP connection issues\n  \n   - All of the downloaders will now try to use HTTP compression\n  \n   - All of the downloaders will now follow redirects\n  \n   - Added new install_missing setting to control if Package Control should try\n     to install any packages that appear to be missing from the current machine.\n     This defaults to true, and is really only useful if you want to prevent\n     Package Control from connecting to the internet without explicitly asking\n     it to.\n  \n   - Added lots of code comments as a first step towards making contributions\n     by other developers easier\n  \n  \n  Bug Fixes\n  \n  \n   - Added support for the new preferences filename (thanks titoBouzout!)\n  \n   - If a package is missing from a machine, but not available for that\n     platform, it is no longer considered an error (thanks schlamar!)\n  \n   - Updated CA certs\n  \n   - Fixed handling of install and upgrade messages that contain non-ASCII\n     characters\n  \n   - Fixed a unicode error trying to load the CA cert bundle file on Windows when\n     the install path to Sublime Text contains non-ASCII characters\n  \n   - Better handling for edge case HTTP errors (thanks tgecho!)\n  \n   - Fixed a number of errors related to non-ASCII error messages being created\n     by the operating system (thanks quarnster!)\n  \n   - GitHub URLs will now automatically be trimmed of trailing .git suffixes\n  \n   - Badly formatted messages.json files will no longer break the install process\n",
+			"settings":
+			{
+				"buffer_size": 3999,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"djan",
+				"Django DocsSearch"
+			],
+			[
+				"Dja",
+				"Set Syntax: Python Django"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level2.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level.json",
+		"/Volumes/webroot/dell/1037/builds/beta/0_1_1/json/level_1.json",
+		"/Volumes/webroot/dell/1037/builds/beta/0_1_1/json/level.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/GameProperties.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/OffTheShelfPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/main.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/game_properties.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/EaselRenderer.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildPathPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BottomNavigation.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/CssAnimation.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/content.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/HealthMeter.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/ImageResources.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/gamedev.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/RacePage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/css/main.css",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/Utilities.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/AbstractCollection.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Surfaces.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/GameRenderer.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collobsticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/ImageSequenizer.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/PxLoaderImage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Obstacle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/bmpTest.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collectable.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/ToolSet.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildChassis.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Collections.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/User.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/bmpTest.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/lib/easel.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/ryan_temp_level.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildBrakes.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CustomBuildWheels.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Car.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/world_properties.json",
+		"/Users/rploetz/Downloads/CreateJS-SoundJS-ab56047/examples/Game.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/SpringConstraint.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/RectangleParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/WheelParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/SpringConstraintParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/EdgeParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/AbstractParticle.js",
+		"/Users/rploetz/Downloads/CreateJS-SoundJS-ab56047/src/soundjs/SoundJS.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/Root.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Item.js",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrackadmin/views.py",
+		"/Volumes/webroot/som/1001/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/game/Root.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/ryan_level.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level3.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/somniojs.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/ModificationsPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/test_level.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level_2.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/json/level_2_shortened.json",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/toolset/Collectable.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src/RimParticle.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/CarData.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/LandingPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/BuildConfirmationPage.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/opensave.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/Surfaces.js",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/index.html",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/images/raceCoordinatorLarge.png",
+		"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/canvas/game/Root.js",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/js/main.js",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/content.json",
+		"/Users/rploetz/Documents/SVNs/Dell1037_02_programming/wrapper/js/jquery-1.8.2.min.js",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/api/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/index.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/email_document.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/urls.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/systems/download_email/download_email.html",
+		"/Users/rploetz/Desktop/EmailDocument/index.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/configurations/configs.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/systems/download_email/download_email.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrackadmin/models.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/utils/S3FileField.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/LitRackServer/settings.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrackadmin/urls.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/LitRackServer/urls.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/outcome.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/registration/login.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/assign_users.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/LitRackServer/views.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/admin.html",
+		"/Users/rploetz/Desktop/test error.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/view_litrack.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/create_company.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/create_client.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/forms.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/create_user.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/create_group.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrack/models.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/litrackadmin/forms.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/view_client.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/utils/utils.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/api/models.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/view_emailed_document.html",
+		"/Users/rploetz/Desktop/Travis - 848-2724",
+		"/Volumes/webroot/elsevier/1000/index.html",
+		"/Users/rploetz/Downloads/2DGameplayTutorialProject/Assets/Scripts/2D/DeathTrigger.js",
+		"/Users/rploetz/Downloads/2DGameplayTutorialProject/Assets/Scripts/2D/LevelAttributes.js",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/dw_data.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/interactivity_mult_select.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/mini_consultant_data.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/consultant_discussions.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/cc_video_data.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/emr_library.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/lesson_data.xml",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/xml/data/lesson_1/interactivity_assessment.xml",
+		"/Volumes/webroot/elsevier/1000/BUILDS/alpha/0_5_7/index.html",
+		"/Users/rploetz/Documents/SVNs/elsevier/EL_1000_Case_Study_Platform/trunk/creative/03_build/02_programming/MyocardialInfarction/bin/index.html",
+		"/Volumes/webroot/elsevier/1000/BUILDS/alpha/0_5_3/index.html",
+		"/Volumes/varwww/dell1003/20120810/FLASH_TOOL/index.html",
+		"/Volumes/varwww/dell1003/20120810/DBMI_TOOL/config/config.php",
+		"/Users/rploetz/Documents/SVNs/DELL_1020_Memory_Tool_Phase_2/trunk/creative/03_build/03_programming/bin/english.xml",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/edit_litrack.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/api/urls.py",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrack/login_required.html",
+		"/Users/rploetz/Documents/GITs/LitRackDev/LiteratureRack/Content/templates/litrackadmin/upload_litrack_content.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/",
+			"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE",
+			"/Users/rploetz/Documents/SVNs/DELL_1037_Speed_to_Profit/trunk/creative/03_build/02_programming/wrapper/js/lib/JPE/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadLevelFile",
+			"dynami",
+			"JSON_CONTENT_FILE",
+			"scoringSyste",
+			"setContainer",
+			"foreground",
+			"				// instance.main.bottomNavigation.updateMoney(-instance.refundCost);\n",
+			"nav",
+			"updateMoney",
+			"bottomNavigation",
+			"bottomN",
+			"bottomNa",
+			"initial",
+			"scoringSystem",
+			"updateMoney",
+			"bottomNav",
+			"setContainer",
+			"showPopup",
+			"gameProperties",
+			"bottomNavigation",
+			"ScoringSystem",
+			"Root",
+			"HealthMeter",
+			"height",
+			"width",
+			"CssImage",
+			"CssAnimation",
+			"cssDrawingContainer",
+			"canvas",
+			"GameRenderer",
+			"collectables",
+			"startGame",
+			"Root",
+			"car",
+			"step",
+			"update",
+			"new Car",
+			"bottomConnector",
+			"loadContent",
+			"debug",
+			"background",
+			"imageResources",
+			"stage",
+			"javascript",
+			"uploadAllProperties",
+			"rotator",
+			"new Root",
+			"Root",
+			"colC",
+			"colA",
+			"Vector",
+			"timeStep",
+			"loadLevelFile",
+			"reset",
+			"Graphics",
+			"Shape",
+			"Container",
+			"loadLevelFile",
+			"collectable_img_type",
+			"latestCollectableType",
+			"ctype",
+			"collectables",
+			"gameProper",
+			"brakingAmount",
+			"car_brakes",
+			"applyBrake",
+			"render - item",
+			"getFixed",
+			"stiffness",
+			"edge",
+			"console",
+			"_fixed",
+			"setCollidable",
+			"this.p1",
+			"closestPtSegmentSegment",
+			"getContactPointParam",
+			"setAxes",
+			"rca",
+			"closestParamPoint",
+			"setCorners",
+			"_axes",
+			"getExtents",
+			"setCorners",
+			"getExtents",
+			"_extents",
+			"setHeight",
+			"getRectHeight",
+			"_rectHeight",
+			"setCollidable",
+			"scaleToLength",
+			"setCollidable",
+			"bottomConnector",
+			"SpringConstraintParticle",
+			"drawShape",
+			"imageStartSequenceName",
+			"rectangle",
+			"rectable",
+			"_initialX",
+			"RectangleParticle",
+			"gamePr",
+			"Collobst",
+			"Collectable",
+			"createjs",
+			"p1",
+			"addParticle",
+			"wheelParticleA",
+			"addConstraint",
+			"Collectable",
+			"loadGameProperties",
+			"background",
+			"surface",
+			"this.race",
+			"gameLoadedComplete",
+			"integrate",
+			"masslessForce",
+			"gravity",
+			"masslessForce",
+			"gravity",
+			"velocity",
+			"null",
+			"loadLevelFile",
+			"startLocation",
+			"Root",
+			"resetGame",
+			"setMode",
+			"EnableDeleteSegmentMode",
+			"DrawLine",
+			"redColor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/game/Root.js",
+					"settings":
+					{
+						"buffer_size": 15121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rploetz/Desktop/Ryan Things to To - Dell 1037",
+					"settings":
+					{
+						"buffer_size": 1666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/rploetz/Documents/GITs/SomnioAnalytics/SomnioAnalytics/analytics/views.py",
+					"settings":
+					{
+						"buffer_size": 4153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1945,
+								1953
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 326.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/game/DynamicForeground.js",
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/game/Car.js",
+					"settings":
+					{
+						"buffer_size": 3495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1268.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/game/Collobsticle.js",
+					"settings":
+					{
+						"buffer_size": 2911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/game/Collections.js",
+					"settings":
+					{
+						"buffer_size": 1401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/game/Collectable.js",
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "js/game/Obstacle.js",
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/RacePage.js",
+					"settings":
+					{
+						"buffer_size": 9125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 811.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "js/game/ScoringSystem.js",
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "js/game/ImageResources.js",
+					"settings":
+					{
+						"buffer_size": 2701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2352,
+								2352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 53.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 16984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2438.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"settings":
+					{
+						"buffer_size": 3999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3999,
+								3999
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}

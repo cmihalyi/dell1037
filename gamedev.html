@@ -1,0 +1,157 @@
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Dell 1037 - OEM Game</title>
+<style>
+body{
+	margin:0 auto;
+	font-size:12px;
+	font-family:Verdana;
+	background:#666666;
+	width:950px;
+}
+</style>
+</head>
+<body>
+	
+	<h1>Dell 1037 - OEM Game</h1>
+	<form>
+		Car Brake X Amount: <input type="text" name='car_brakes_x'><br />
+		Car Brake Y Amount: <input type="text" name='car_brakes_y'><br />
+		Car Brake Interval: <input type="text" name="car_braking_interval"><br />
+		Car Mass: <input type="text" name="car_mass"><br />
+		Car Elasticity: <input type="text" name="car_elasticity"><br />
+		Car Friction: <input type="text" name="car_friction"><br />
+		Car Traction: <input type="text" name="car_traction"><br />
+		Car Max Speed: <input type="text" name="car_max_speed"><br />
+		World Gravity: <input type="text" name="world_gravity"><br />
+		<input type='button' name="Submit" onclick="handleFormClick();" value="Update World Properties" /><br />
+		Upload World Properties JSON: <input type="file" id="files" name="files[]" multiple />
+	</form>
+	<div id="saveTextFieldButton"></div><br /><br />
+	<input type="button" onclick="startGame();" value="Start Game" />
+	<input type="button" onclick="resetGame();" value="Reset Game" />
+	<div class='summary'>
+	</div>
+<script type="text/javascript" src="js/lib/opensave.js"></script>
+<script src="js/lib/JPE/lib/json2.js"></script>
+<script src="http://yui.yahooapis.com/3.7.2/build/yui/yui-min.js"></script>
+<script src="http://code.createjs.com/easeljs-0.5.0.min.js"></script>
+<script charset='utf-8' src='js/lib/JPE/lib/yepnope.1.0.2-min.js'></script> 
+<script src="js/lib/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/lib/PxLoader.js"></script>
+<script type="text/javascript" src="js/lib/PxLoaderImage.js"></script>
+
+<script>
+
+var root;
+var loadedComplete = false;
+document.getElementById('files').addEventListener('change', handleFileSelect, false);
+
+// DSK CHANGES
+var preload;
+
+(function(){
+	var debug = true, queue;
+
+	if(debug == false)
+	{
+		queue = ["lib/JPE-1.0.5.js"]
+	}else{
+		queue = ['JPE', 'Signal', 'Engine', 'Vector', 'Interval', 'Collision', 'SmashSignal',
+                'MathUtil', 'AbstractItem', 'CollisionResolver', 'CollisionDetector', 'AbstractCollection', 'AbstractParticle', 'Group',
+                'Composite', 'CircleParticle', 'RectangleParticle', 'RimParticle', 'WheelParticle', 'AbstractConstraint',
+                'SpringConstraint', 'SpringConstraintParticle', 'Renderer', 'EaselRenderer', 'EdgeParticle', 'FollowerParticle'];
+            
+        for(var i = 0, l = queue.length; i < l; i++)
+        {
+            queue[i] = "js/lib/JPE/src/" + queue[i] + ".js";
+        }
+	}
+	queue.push("js/game/CssImage.js");
+    queue.push("js/game/CssLayer.js");
+    queue.push("js/game/CssGameRenderer.js");
+    queue.push("js/game/Car.js");
+    queue.push("js/game/Surfaces.js");
+    queue.push("js/game/Root.js");
+    queue.push("js/game/CssAnimation.js");
+    queue.push("js/game/Collobsticle.js");
+    queue.push("js/game/Collectable.js");
+	queue.push("js/game/Collections.js");
+	queue.push("js/game/Obstacle.js");
+	queue.push("js/game/GameProperties.js");
+	queue.push("js/game/Item.js");
+	queue.push("js/game/User.js");
+	// queue.push("js/game/ScoringSystem.js");
+	queue.push("js/game/HealthMeter.js");
+	queue.push("js/game/GameRenderer.js");
+	queue.push("js/game/ImageResources.js");
+	queue.push("js/game/DynamicForeground.js");
+
+	var owner = this;
+	yepnope({
+		load: queue,
+		complete: function(){
+			root = new JPE.Root();
+			owner.loadedComplete = true;
+		}
+	});
+})();
+
+opensave.make({ 
+    width:       105,
+    height:     24,
+    filename:   "world_properties.json", 
+    buttonDiv:  "saveTextFieldButton",
+    dataID:     "textFieldData",
+    data: function() { return root.exportWorldProperties() }
+    }
+);
+
+function resetGame() {
+	root.reset();
+}
+
+function startGame() 
+{
+	root.startGame();
+}
+
+function handleFormClick()
+{
+	if ( this.loadedComplete )
+	{
+		root.car.updateProperties(parseFloat($("form input[name=car_mass]").val()), parseFloat($("form input[name=car_elasticity]").val()), parseFloat($("form input[name=car_friction]").val()), parseFloat($("form input[name=car_traction]").val()), parseFloat($("form input[name=car_max_speed]").val()));
+		root.updateProperties(parseFloat($("form input[name=world_gravity]").val()), parseFloat($("form input[name=car_brakes_x]").val()), parseFloat($("form input[name=car_brakes_y]").val()), parseFloat($("form input[name=car_braking_interval]").val()));
+	}
+}
+
+function handleFileSelect(evt) {
+	var files = evt.target.files; 
+
+	for (var i = 0, f; f = files[i]; i++) {
+	    var reader = new FileReader();
+	    reader.owner = root;
+	    reader.onload = function(e) {
+	    	var data = JSON.parse(this.result);
+	        root.uploadAllProperties(data);
+	        var carData = data.physics.car;
+	        $("form input[name=car_mass]").val(carData.mass);
+	        $("form input[name=car_elasticity]").val(carData.elasticity);
+	        $("form input[name=car_friction]").val(carData.friction);
+	        $("form input[name=car_traction]").val(carData.traction);
+	        $("form input[name=world_gravity]").val(data.physics.world.gravity);
+	        $("form input[name=car_brakes_x]").val(carData.braking_amount_x);
+	        $("form input[name=car_brakes_y]").val(carData.braking_amount_y);
+	        $("form input[name=car_braking_interval]").val(carData.braking_interval);
+	        $("form input[name=car_max_speed]").val(carData.max_speed);
+	    }
+	    reader.readAsText(f);
+	    
+
+	}
+}
+
+</script>
+</body>
+</html>
